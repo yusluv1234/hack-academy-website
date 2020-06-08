@@ -1,0 +1,30 @@
+*{
+
+}
+
+.display {
+    background: black;
+    background-position: 50% 50%;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+.curricullum {
+    text-align: right;
+    font-size: 20px;
+    padding-right: 50px;
+}
+
+.curricullum a {
+    text-decoration: none;
+    color: white;
+    padding-inline-end: 10px;
+}
+
+.home {
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
